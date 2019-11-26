@@ -42,3 +42,11 @@ E:\Download\DTcms_50_sql_src\DTcms.Model\obj\Debug\DTcms.Model.csproj.CoreCompil
 E:\Download\DTcms_50_sql_src\DTcms.Model\obj\Debug\DTcms.Model.csproj.CopyComplete
 E:\Download\DTcms_50_sql_src\DTcms.Model\obj\Debug\DTcms.Model.dll
 E:\Download\DTcms_50_sql_src\DTcms.Model\obj\Debug\DTcms.Model.pdb
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.Model\bin\Debug\DTcms.Model.dll
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.Model\bin\Debug\DTcms.Model.pdb
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.Model\bin\Debug\DTcms.Common.dll
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.Model\bin\Debug\DTcms.Common.pdb
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.Model\obj\Debug\DTcms.Model.csprojAssemblyReference.cache
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.Model\obj\Debug\DTcms.Model.csproj.CopyComplete
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.Model\obj\Debug\DTcms.Model.dll
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.Model\obj\Debug\DTcms.Model.pdb

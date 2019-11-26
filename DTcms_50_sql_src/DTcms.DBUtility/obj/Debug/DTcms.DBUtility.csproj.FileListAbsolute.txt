@@ -42,3 +42,11 @@ E:\Download\DTcms_50_sql_src\DTcms.DBUtility\obj\Debug\DTcms.DBUtility.csproj.Co
 E:\Download\DTcms_50_sql_src\DTcms.DBUtility\obj\Debug\DTcms.DBUtility.csproj.CopyComplete
 E:\Download\DTcms_50_sql_src\DTcms.DBUtility\obj\Debug\DTcms.DBUtility.dll
 E:\Download\DTcms_50_sql_src\DTcms.DBUtility\obj\Debug\DTcms.DBUtility.pdb
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DBUtility\bin\Debug\DTcms.DBUtility.dll
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DBUtility\bin\Debug\DTcms.DBUtility.pdb
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DBUtility\bin\Debug\DTcms.Common.dll
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DBUtility\bin\Debug\DTcms.Common.pdb
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DBUtility\obj\Debug\DTcms.DBUtility.csprojAssemblyReference.cache
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DBUtility\obj\Debug\DTcms.DBUtility.csproj.CopyComplete
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DBUtility\obj\Debug\DTcms.DBUtility.dll
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DBUtility\obj\Debug\DTcms.DBUtility.pdb

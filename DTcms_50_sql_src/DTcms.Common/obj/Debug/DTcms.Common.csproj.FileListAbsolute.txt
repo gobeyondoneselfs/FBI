@@ -28,3 +28,8 @@ E:\Download\DTcms_50_sql_src\DTcms.Common\bin\Debug\DTcms.Common.pdb
 E:\Download\DTcms_50_sql_src\DTcms.Common\obj\Debug\DTcms.Common.csproj.CoreCompileInputs.cache
 E:\Download\DTcms_50_sql_src\DTcms.Common\obj\Debug\DTcms.Common.dll
 E:\Download\DTcms_50_sql_src\DTcms.Common\obj\Debug\DTcms.Common.pdb
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.Common\bin\Debug\DTcms.Common.dll
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.Common\bin\Debug\DTcms.Common.pdb
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.Common\obj\Debug\DTcms.Common.csprojAssemblyReference.cache
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.Common\obj\Debug\DTcms.Common.dll
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.Common\obj\Debug\DTcms.Common.pdb

@@ -66,3 +66,15 @@ E:\Download\DTcms_50_sql_src\DTcms.DAL\obj\Debug\DTcms.DAL.csproj.CoreCompileInp
 E:\Download\DTcms_50_sql_src\DTcms.DAL\obj\Debug\DTcms.DAL.csproj.CopyComplete
 E:\Download\DTcms_50_sql_src\DTcms.DAL\obj\Debug\DTcms.DAL.dll
 E:\Download\DTcms_50_sql_src\DTcms.DAL\obj\Debug\DTcms.DAL.pdb
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DAL\bin\Debug\DTcms.DAL.dll
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DAL\bin\Debug\DTcms.DAL.pdb
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DAL\bin\Debug\DTcms.Common.dll
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DAL\bin\Debug\DTcms.DBUtility.dll
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DAL\bin\Debug\DTcms.Model.dll
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DAL\bin\Debug\DTcms.Common.pdb
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DAL\bin\Debug\DTcms.DBUtility.pdb
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DAL\bin\Debug\DTcms.Model.pdb
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DAL\obj\Debug\DTcms.DAL.csprojAssemblyReference.cache
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DAL\obj\Debug\DTcms.DAL.csproj.CopyComplete
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DAL\obj\Debug\DTcms.DAL.dll
+E:\FBI\FBI\DTcms_50_sql_src\DTcms.DAL\obj\Debug\DTcms.DAL.pdb
